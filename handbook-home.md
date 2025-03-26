@@ -1,6 +1,6 @@
 ---
 title: Our Story
-nav_order: 14
+nav_order: 0
 layout: default
 ---
 # Our Story
