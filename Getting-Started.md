@@ -2,6 +2,7 @@
 title: Getting Started
 nav_order: 1.1
 ---
+
 # Getting Started 
 We have designed a comprehensive onboarding journey to help you settle in and set you up for success. We will provide all the essentials to get you started smoothly, including your login details. Here's what to expect from the moment you accept our offer through the completion of your probation period.
 
