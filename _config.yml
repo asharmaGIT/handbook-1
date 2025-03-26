@@ -110,8 +110,8 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Suzega Handbook On GitHub":
-    - "https://github.com/asharmaGIT/handbook-1"
+  "Visit Suzega.com":
+    - "https://www.suzega.com"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
@@ -126,10 +126,11 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # External navigation links
 nav_external_links:
-  - title: Suzega Handbook On GitHub
-    url: https://github.com/asharmaGIT/handbook-1
   - title: Visit Suzega.com
     url: https://www.suzega.com
+    
+# Makes External navigation links open in a new tab. Default is false
+nav_external_links_new_tab: true
 
 # Show navigation error report
 nav_error_report: true # default is false/nil.
