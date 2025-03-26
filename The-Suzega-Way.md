@@ -37,10 +37,10 @@ Our BrainTrust approach is inspired by Pixar's renowned creative process, adapte
 
 ## Meetings with Purpose
 Our meetings serve clear purposes with defined outcomes. We prioritize productive time by keeping meetings focused and purposeful. You are always empowered to decline meetings where your presence doesn't add value. We maximize productivity by following these guidelines for each meeting type:
-**No Status Updates -** We eliminate status update calls by using Basecamp for timely updates, documenting and sharing information about your work, and communicating obstacles that are blocking your progress.
-**Strategy & Brainstorming -** Identify the decision hiding behind the meeting. Example: "Do we sign this contract?"
-**1:1 Meeting -** Sacred time. Never skip. Connect, understand issues, build relationships. Ask: "How can I make your life easier?" 
-**Decisions -** Clearly identify: Who decides? Who reviews? Reviewers provide input but don't block execution.
+- **No Status Updates -** We eliminate status update calls by using Basecamp for timely updates, documenting and sharing information about your work, and communicating obstacles that are blocking your progress.
+- **Strategy & Brainstorming -** Identify the decision hiding behind the meeting. Example: "Do we sign this contract?"
+- **1:1 Meeting -** Sacred time. Never skip. Connect, understand issues, build relationships. Ask: "How can I make your life easier?"
+- **Decisions -** Clearly identify: Who decides? Who reviews? Reviewers provide input but don't block execution.
 
 ## Expense Management 
 At Suzega, we trust our team members to manage business expenses responsibly. We empower you with the autonomy to make spending decisions in the company's best interest without requiring pre-approval for every expenditure. We expect all expenses to be necessary, reasonable, and aligned with company requirements. Exercise good judgment and maintain transparency in your financial decisions, as this trust-based approach allows us to operate efficiently 
