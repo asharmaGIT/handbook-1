@@ -2,7 +2,6 @@
 title: Getting Started
 nav_order: 1.1
 ---
-
 # Getting Started 
 We have designed a comprehensive onboarding journey to help you settle in and set you up for success. We will provide all the essentials to get you started smoothly, including your login details. Here's what to expect from the moment you accept our offer through the completion of your probation period.
 
@@ -23,4 +22,5 @@ Throughout your probation period, you will progress through four stages of devel
 - By 60 days (Supported): Taking on tasks with increasing independence
 - By 90 days (Independent): Managing responsibilities with minimal supervision
 - By 180 days (Leading): Leading projects and contributing independently
+
 
