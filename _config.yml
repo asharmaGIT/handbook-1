@@ -43,7 +43,6 @@ exclude:
   # specific to the theme website:
   - bin/
   - lib/
-  - docs/
   - "*.gemspec"
   - "*.gem"
   - LICENSE.txt
