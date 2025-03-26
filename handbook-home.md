@@ -1,8 +1,3 @@
----
-title: Our Story
-nav_order: 0
-layout: default
----
 # Our Story
 Welcome to Suzega! You've just taken a bold step to join a movement that matters. While the rest of the world rushes to automate humanity out of work, you've joined a collective of thoughtful rebels reimagining what work can be in the Intelligence Age. Here, we're not just building another company, we're pioneering a movement where humans flourish and we shape AI implementations in a responsible way. The industrial-age machinery of command-and-control, artificial deadlines, and soul-crushing processes stops at our door.
 
