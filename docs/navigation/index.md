@@ -1,7 +1,3 @@
----
-title: Navigation
-nav_order: 5
----
 
 # Navigation
 
