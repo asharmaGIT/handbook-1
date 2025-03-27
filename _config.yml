@@ -111,11 +111,11 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Visit Suzega.com":
+  "Back to Home":
     - "https://www.suzega.com"
 
 # Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: true
+aux_links_new_tab: false
 
 # Enable or disable the side/mobile menu globally
 # Nav menu can also be selectively enabled or disabled using page variables or the minimal layout
@@ -131,7 +131,7 @@ nav_external_links:
     url: https://www.suzega.com
     
 # Makes External navigation links open in a new tab. Default is false
-nav_external_links_new_tab: true
+nav_external_links_new_tab: false
 
 # Show navigation error report
 nav_error_report: true # default is false/nil.
