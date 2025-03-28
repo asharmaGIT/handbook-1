@@ -28,7 +28,7 @@ Suzega is dedicated to pioneer a new model of work that enables human flourishin
 
 In essence, Suzega strives to create a workplace where individuals thrive and to guide businesses in leveraging AI in a way that benefits both people and society.
 
-## **Our Vision**  {#our-vision}
+## **Our Vision**
 
 We are creating a world where:
 
