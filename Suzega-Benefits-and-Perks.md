@@ -48,7 +48,7 @@ In both locations, we're committed to supporting employee wellbeing through comp
 
 We provide each team member with one time workspace allowance of $500 in the USA and INR 15,000 in India to create a comfortable and ergonomic home office setup. Use these funds for essential equipment, furniture, or whatever helps you work efficiently in your personal space. For team members unable to work from home, we will cover the costs of a coworking space membership, ensuring everyone has access to a productive environment. Please connect with the People Ops team if you have any questions.
 
-## **Time- Off** 
+## **Time-Off** 
 
 You will receive 30 leaves per year in India and 15 in the USA which will be accumulated monthly on a pro-rata basis, plus 9 public holidays in India and USA. You will be allowed to carry forward up to 15 leaves every year and accumulate a maximum of 45 leaves. Any unused leaves beyond this limit will lapse.
 
@@ -56,7 +56,7 @@ While we follow an honor system and approval is not required, it's essential to 
 
 We embrace a flexible approach to time off that prioritizes your wellbeing and work-life balance. If you require additional leave beyond your allocated balance, please contact the People Ops team directly. We will provide special leave allocations to ensure you don't face unpaid time off for reasonable cases. 
 
-## **Annual Rejuvenation Leave Allowance:**  
+## **Annual Rejuvenation Leave Allowance**  
 
 Every year, team members are encouraged to take a 1-week rejuvenation leave to rest, recharge, and return with renewed energy and perspective. To support this important time away, we provide  $1000 in the USA and INR 25,000 in India as a rejuvenation leave allowance that can be used toward travel, wellness activities, or however you choose to make your break most restorative.
 
@@ -64,7 +64,7 @@ Every year, team members are encouraged to take a 1-week rejuvenation leave to r
 
 For specific details about your benefits package, including coverage amounts, eligibility criteria, and enrollment procedures, please consult with our People Operations team.
 
-## **Unplug**: 
+## **Unplug** 
 
 Our standard workday consists of 8 hours and 5 days, Team Members are not expected to be available or respond to work communications outside of working hours, including evenings, weekends, and holidays except in case of critical scenarios.
 
