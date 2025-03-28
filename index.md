@@ -14,7 +14,7 @@ This handbook isn't about rules and regulations. It's your field guide to freedo
 
 ## **The Brand**
 
-Our inspiration comes from a Portuguese word “Sossegado” which means “quiet”. Later adopted in Goa as Susegad (su-say-gaad) \- the Goan art of contentment and fulfilled living. Susegad captures the essence of a peaceful and unhurried approach to living. This is our approach to human flourishing in this Intelligence Age.
+Our inspiration comes from a Portuguese word “**Sossegado**” which means “**quiet**”. Later adopted in Goa as **Susegad (su-say-gaad)** \- the Goan art of contentment and fulfilled living. Susegad captures the essence of a peaceful and unhurried approach to living. This is our approach to human flourishing in this Intelligence Age.
 
 At Suzega we embrace freedom to create without hierarchies, work at natural pace and mastery \- to strive in this Intelligence age rather than following the traditional practice of command & control, treating humans as resources and causing burnout. 
 
@@ -22,7 +22,7 @@ At Suzega we embrace freedom to create without hierarchies, work at natural pace
 
 **Human Flourishing Through Innovative Work Model.** 
 
-Suzega is a Public Benefit Corporation (PBC) committed to driving positive change in the world. At its core, Suzega seeks to redefine the workplace and the role of artificial intelligence in enterprise:
+Suzega is a **Public Benefit Corporation (PBC)** committed to driving positive change in the world. At its core, Suzega seeks to redefine the workplace and the role of artificial intelligence in enterprise:
 
 Suzega is dedicated to pioneer a new model of work that enables human flourishing through autonomy for our teams, mastery in our capabilities through continuous learning, and sustainable work practices by creating a culture of contentment
 
