@@ -32,11 +32,13 @@ Team Members forfeit right to participate in the Ownership Pool upon resignation
 
 ## **Health and Retirement Benefits**
 
-**For India :** In India, we provide a robust benefits package tailored to local needs and regulations. Health benefits include group medical insurance for employees and their dependents with the company covering 100% of premium costs. We partner with reputed insurance providers to deliver comprehensive coverage. Team members also have optional personal accident insurance, life insurance, and annual health check-ups.
+### **For India** 
+In India, we provide a robust benefits package tailored to local needs and regulations. Health benefits include group medical insurance for employees and their dependents with the company covering 100% of premium costs. We partner with reputed insurance providers to deliver comprehensive coverage. Team members also have optional personal accident insurance, life insurance, and annual health check-ups.
 
 Financial benefits align with local regulations and include Employees' Provident Fund (EPF) which is a part of CTC, Voluntary Provident Fund (VPF) options, Gratuity benefits, and the option to participate in the National Pension System.
 
-**For USA :** We provide a comprehensive benefits package designed to support the health, financial wellbeing, and work-life balance of our US Team Members. Our health coverage includes medical, dental, and vision insurance with the company covering 70% of premium costs while team members contribute the remaining 30%. We partner with reputed insurance providers to ensure quality coverage and service. Team Members also receive life insurance and disability coverage to provide security during unexpected circumstances.
+### **For USA** 
+We provide a comprehensive benefits package designed to support the health, financial wellbeing, and work-life balance of our US Team Members. Our health coverage includes medical, dental, and vision insurance with the company covering 70% of premium costs while team members contribute the remaining 30%. We partner with reputed insurance providers to ensure quality coverage and service. Team Members also receive life insurance and disability coverage to provide security during unexpected circumstances.
 
 For financial planning, we offer a 401(k) retirement plan where the company matches 100% of what you contribute, up to 4% of your salary, giving all team members the opportunity to build their future financial security. Team Members also have access to optional HSA/FSA accounts for additional tax-advantaged healthcare savings.
 
@@ -54,14 +56,17 @@ While we follow an honor system and approval is not required, it's essential to 
 
 We embrace a flexible approach to time off that prioritizes your wellbeing and work-life balance. If you require additional leave beyond your allocated balance, please contact the People Ops team directly. We will provide special leave allocations to ensure you don't face unpaid time off for reasonable cases. 
 
-**Annual Rejuvenation Leave Allowance:**  
+## **Annual Rejuvenation Leave Allowance:**  
+
 Every year, team members are encouraged to take a 1-week rejuvenation leave to rest, recharge, and return with renewed energy and perspective. To support this important time away, we provide  $1000 in the USA and INR 25,000 in India as a rejuvenation leave allowance that can be used toward travel, wellness activities, or however you choose to make your break most restorative.
 
 **Please Note:** The rejuvenation leave allowance is only available when you take your 1-week rejuvenation leave in one continuous block. This benefit is applicable only once per year. If you don't take the full 1-week leave, you won't receive the allowance. The allowance doesn't roll over to the next year and can't be exchanged for cash. This policy reflects our commitment to meaningful breaks and complete disconnection from work.
 
 For specific details about your benefits package, including coverage amounts, eligibility criteria, and enrollment procedures, please consult with our People Operations team.
 
-**Unplug**: Our standard workday consists of 8 hours and 5 days, Team Members are not expected to be available or respond to work communications outside of working hours, including evenings, weekends, and holidays except in case of critical scenarios.
+## **Unplug**: 
+
+Our standard workday consists of 8 hours and 5 days, Team Members are not expected to be available or respond to work communications outside of working hours, including evenings, weekends, and holidays except in case of critical scenarios.
 
 ## **Exploration Fridays**
 
