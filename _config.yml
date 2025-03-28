@@ -58,7 +58,7 @@ exclude:
 
 # Set a path/url to a logo that will be displayed instead of the title
 # logo: "/assets/images/suzega-logo-big-cropped.png"
-logo: "/assets/images/suzega_logo_text.png"
+logo: "/assets/images/suzega-main-identity-logo.png"
 
 # Enable or disable the site search
 # Supports true (default) or false
